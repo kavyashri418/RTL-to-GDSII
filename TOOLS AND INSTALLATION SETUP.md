@@ -105,6 +105,8 @@ make
 sudo make install
 ```
 
+<img width="2532" height="1426" alt="image" src="https://github.com/user-attachments/assets/bd2d1e8a-6665-4e86-9dd7-8e09afa7d9ac" />
+
 ## 🧪Tool Version Checks
 
 Run the following commands to verify installations:
