@@ -48,6 +48,8 @@ This repository describes the end-to-end **VLSI Chip Design and Fabrication Proc
 
 ---
 
+<img width="1381" height="1533" alt="image" src="https://github.com/user-attachments/assets/714eb928-62e6-4cd5-815d-f1df5d34eefb" />
+
 ## 📌 Summary
 This flowchart represents the **complete VLSI design flow**:
 1. 💡 Chip modeling in C  
