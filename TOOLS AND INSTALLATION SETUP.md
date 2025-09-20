@@ -82,6 +82,8 @@ sudo make install
 
 ```
 
+<img width="2529" height="1094" alt="image" src="https://github.com/user-attachments/assets/63c4b1d0-4d31-4a16-a4e3-9b83d7cfa4ee" />
+
 ## 5. 🧱 Magic – VLSI Layout Tool
 
 Magic is a VLSI layout editor for interactive physical design, with built-in DRC and circuit extraction capabilities.
