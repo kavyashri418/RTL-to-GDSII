@@ -50,6 +50,8 @@ sudo apt-get install iverilog
 
 ```
 
+<img width="2569" height="765" alt="image" src="https://github.com/user-attachments/assets/36f96ced-2fe9-4a60-bd5b-49f8731e089c" />
+
 ## 3. 📈 GTKWave – Waveform Viewer
 
 GTKWave is a waveform viewer for post-simulation analysis of digital signals, primarily Verilog and VHDL.
