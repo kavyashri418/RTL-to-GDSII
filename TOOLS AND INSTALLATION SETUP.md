@@ -62,6 +62,9 @@ sudo apt install gtkwave
 
 ```
 
+<img width="2535" height="1012" alt="image" src="https://github.com/user-attachments/assets/880b2ced-c56d-468d-9342-120dd556ec44" />
+
+
 ## 4. ⚡ Ngspice – Circuit Simulator
 
 Ngspice is a mixed-signal circuit simulator used for analyzing time-varying voltages, currents, noise, and small-signal behavior.
