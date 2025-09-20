@@ -1,4 +1,4 @@
-RISC-V Reference SoC Tapeout Program VSD
+### 🧠 **RISC-V Reference SoC Tapeout Program VSD**
 
 Welcome to my RISC-V Reference SoC Tapeout Program repository, where I will be documenting weekly tasks by emphasizing hands-on learning and end-to-end chip development - from RTL design to post-silicon validation.
 
