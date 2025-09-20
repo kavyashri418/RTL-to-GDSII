@@ -37,6 +37,9 @@ make
 sudo make install
 
 ```
+
+<img width="1835" height="897" alt="image" src="https://github.com/user-attachments/assets/f112ec68-f214-421a-b9e4-561ae90e4801" />
+
 ## 2. 💻 Icarus Verilog (Iverilog)
 
 Iverilog is an open-source Verilog compiler and simulator for digital circuit design and verification.
