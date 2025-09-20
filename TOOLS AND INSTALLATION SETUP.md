@@ -6,7 +6,7 @@ This document contains installation instructions for all essential tools used in
 
 ## 📋 System Requirements
 
-Ensure your system meets the following minimum requirements:
+Ensure the system meets the following minimum requirements:
 
 - 💾 **RAM**: 6 GB  
 - 💽 **Storage**: 50 GB HDD  
