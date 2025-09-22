@@ -29,6 +29,11 @@ This repository documents my journey and weekly progress through the program, fo
 
 ---
 
+## 🙏 Acknowledgement
+
+I am thankful to Kunal Ghosh and Team VLSI System Design (VSD) for the opportunity to participate in the ongoing RISC-V SoC Tapeout Program.
+
+---
 
 
 
