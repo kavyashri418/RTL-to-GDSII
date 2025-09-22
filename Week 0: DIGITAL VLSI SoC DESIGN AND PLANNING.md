@@ -48,7 +48,7 @@ This repository describes the end-to-end **VLSI Chip Design and Fabrication Proc
 
 ---
 
-<img width="1381" height="1533" alt="image" src="https://github.com/user-attachments/assets/714eb928-62e6-4cd5-815d-f1df5d34eefb" />
+![WhatsApp Image 2025-09-22 at 9 42 57 PM (1)](https://github.com/user-attachments/assets/d3d1e31a-354c-4db6-aa80-76ddf9146ca1)
 
 ## 📌 Summary
 This flowchart represents the **complete VLSI design flow**:
